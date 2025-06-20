@@ -3,4 +3,29 @@
 Welcome to iintro!
 
 This is a simple project to help you learn GitHub and README files.
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
+💻 Tech Stack
+
+🐍 Language & Core:
+- Python
+
+🕸️ Web & Frontend:
+- JavaScript / TypeScript
+- HTML / CSS
+
+🖥️ Backend Frameworks:
+- Flask / FastAPI
+
+📦 Databases:
+- PostgreSQL (currently learning)
+- SQLite / MongoDB
+
+☁️ Cloud & AI:
+- Cloud‑Native Concepts (learning)
+- Applied AI / Agentic Systems (learning)
+
+🔧 DevOps & Tools:
+- Git / GitHub
+- Docker
+- VS Code
+- Postman
+
