@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Urwah Khalid</h1>
-<h3 align="center">A passionate Python Developer from Pakistan</h3>
+<h3 align="center"> Python Developer</h3>
 
 ---
 
