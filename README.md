@@ -14,6 +14,14 @@
 
 ---
 
+📫 **Connect with me**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/urwahkhalid00)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/urwahkhalid00)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:urwahkhalid00@gmail.com)
+
+---
+
 🛠️ **Languages and Tools**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -30,8 +38,3 @@
 
 ---
 
-📫 **Connect with me**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/urwahkhalid00)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/urwahkhalid00)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:urwahkhalid00@gmail.com)
