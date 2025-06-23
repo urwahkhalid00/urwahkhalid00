@@ -59,7 +59,7 @@
 
 ---
 
-# 📈 Stats and Activity
+## 📈 Stats and Activity
 
 ### 💻 GitHub Stats
 
