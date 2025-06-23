@@ -27,6 +27,7 @@
 <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30" />
 </a>
+
 ---
 
 ### 🛠️Languages and Tools
