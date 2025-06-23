@@ -73,8 +73,9 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urwahkhalid00&theme=default" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=urwahkhalid00&theme=default" alt="GitHub Streak Stats" />
 </p>
+
 
 
 ---
