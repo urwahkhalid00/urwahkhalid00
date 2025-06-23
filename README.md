@@ -15,17 +15,18 @@
 
 ### 📫 Connect with me
 
-<a href="https://www.linkedin.com/in/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+
+<a href="https://www.linkedin.com/in/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="fill:#0A66C2;" />
 </a>
-<a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" />
+<a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="32" height="32" style="fill:#181717;" />
 </a>
-<a href="https://twitter.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30" />
+<a href="https://twitter.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="Twitter" width="32" height="32" style="fill:#1DA1F2;" />
 </a>
 <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" width="32" height="32" style="fill:#D44638;" />
 </a>
 
 ---
