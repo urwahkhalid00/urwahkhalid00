@@ -18,17 +18,15 @@
 
 <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
   <img src="images/linkedin.png" alt="LinkedIn" width="32" height="32" />
-</a>
-
-
+</a>&nbsp;&nbsp;
 
 <a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
   <img src="images/github.png" alt="GitHub" width="32" height="32" />
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://twitter.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
   <img src="images/twitter.png" alt="Twitter" width="32" height="32" />
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="images/gmail.png" alt="Email" width="32" height="32" />
