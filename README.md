@@ -35,7 +35,7 @@
 
 ---
 
-### 🛠️Languages and Tools
+## 👨‍💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
