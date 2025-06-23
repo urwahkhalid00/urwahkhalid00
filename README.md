@@ -78,7 +78,7 @@
 
 ---
 
-## 📈 GitHub Contribution Graph
+## 📊  GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=react" alt="GitHub Contribution Graph" />
@@ -87,6 +87,6 @@
 ## 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=urwahkhalid00&theme=flat&no-frame=true&margin-w=5" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=urwahkhalid00&theme=light&no-frame=true&margin-w=5" alt="GitHub Trophy" />
 </p>
 
