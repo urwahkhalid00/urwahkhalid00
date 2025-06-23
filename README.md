@@ -16,10 +16,10 @@
 ### 📫 Connect with me
 
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="color:#0A66C2;">](https://www.linkedin.com/in/urwahkhalid00)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="32" height="32" >](https://github.com/urwahkhalid00)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="32" height="32" >](https://twitter.com/urwahkhalid00)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="32" height="32" >](mailto:urwahkhalid00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urwahkhalid00)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/urwahkhalid00)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/urwahkhalid00)  
+[![Email](https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=white)](mailto:urwahkhalid00@gmail.com)
 
 ---
 
