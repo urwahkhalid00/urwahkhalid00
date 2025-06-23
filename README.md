@@ -3,7 +3,7 @@
 
 ---
 
-🌟 **About Me**
+### 🌟About Me
 
 - 🔭 I’m currently working on improving my Python projects  
 - 🌱 I’m currently learning databases and APIs  
@@ -13,26 +13,26 @@
 
 ---
 
-📫 **Connect with me**
-
 ### 📫 Connect with me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/urwahkhalid00" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<p align="center" style="font-size:16px;">
+  <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#0A66C2; margin:0 10px;">
+    🔗 LinkedIn
+  </a> | 
+  <a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#333; margin:0 10px;">
+    🐱 GitHub
+  </a> | 
+  <a href="https://twitter.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1DA1F2; margin:0 10px;">
+    🐦 Twitter
+  </a> | 
+  <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#D44638; margin:0 10px;">
+    ✉️ Email
   </a>
 </p>
+
 ---
 
-🛠️ **Languages and Tools**
+### 🛠️Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -40,7 +40,7 @@
 
 ---
 
-📈 **GitHub Stats**
+### 📈GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=urwahkhalid00&show_icons=true&theme=tokyonight" />
