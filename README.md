@@ -47,11 +47,14 @@
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" alt="Django" height="26" />
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask" alt="Flask" height="26" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" height="26" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" alt="VS Code" height="26" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" height="26" />
   <img src="https://img.shields.io/badge/-Object_Oriented_Programming-007ACC?style=flat-square" alt="OOP" height="26" />
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" height="26" />
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" alt="Bootstrap" height="26" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" height="26" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="26" />
 </p>
+
 
 ### 📈GitHub Stats
 
