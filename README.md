@@ -72,7 +72,11 @@
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-In_Progress-blue?logo=github)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.vercel.app?user=urwahkhalid00&theme=default" alt="GitHub Streak" />
+  </a>
+</p>
 
 
 
