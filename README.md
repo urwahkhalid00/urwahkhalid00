@@ -16,7 +16,7 @@
 ### 📫 Connect with me
 
 
-<a href="https://www.linkedin.com/in/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
+<!-- <a href="https://www.linkedin.com/in/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="fill:#0A66C2;" />
 </a>
 <a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
@@ -27,7 +27,7 @@
 </a>
 <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" width="32" height="32" style="fill:#D44638;" />
-</a>
+</a> -->
 
 ---
 
