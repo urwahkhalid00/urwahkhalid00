@@ -70,7 +70,10 @@
 
 ### Streak Stats
 
+<p>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=urwahkhalid00&theme=light" alt="GitHub Streak Stats" />
 
+</p>
 
 ---
 
