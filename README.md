@@ -16,10 +16,18 @@
 ### 📫 Connect with me
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urwahkhalid00)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/urwahkhalid00)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/urwahkhalid00)  
-[![Email](https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=white)](mailto:urwahkhalid00@gmail.com)
+<a href="https://www.linkedin.com/in/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
+  <img src="linkedin.png" alt="LinkedIn" width="32" height="32" style="fill:#0A66C2;" />
+</a>
+<a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="32" height="32" style="fill:#181717;" />
+</a>
+<a href="https://twitter.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="Twitter" width="32" height="32" style="fill:#1DA1F2;" />
+</a>
+<a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" width="32" height="32" style="fill:#D44638;" />
+</a>
 
 ---
 
