@@ -76,10 +76,17 @@
   <img src="https://github-readme-streak-stats.demolab.com/?user=urwahkhalid00&theme=default" alt="GitHub Streak" />
 </p>
 
-
-
-
-
-
 ---
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=react" alt="GitHub Contribution Graph" />
+</p>
+
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=urwahkhalid00&theme=flat&no-frame=true&margin-w=5" alt="GitHub Trophy" />
+</p>
 
