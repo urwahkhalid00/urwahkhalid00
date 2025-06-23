@@ -15,21 +15,27 @@
 
 ### 📫 Connect with me
 
-<p align="center" style="font-size:16px;">
-  <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#0A66C2; margin:0 10px;">
-    🔗 LinkedIn
-  </a> | 
-  <a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#333; margin:0 10px;">
-    🐱 GitHub
-  </a> | 
-  <a href="https://twitter.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1DA1F2; margin:0 10px;">
-    🐦 Twitter
-  </a> | 
-  <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#D44638; margin:0 10px;">
-    ✉️ Email
+<p align="center">
+  <a href="https://www.linkedin.com/in/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="filter: grayscale(0%); transition: filter 0.3s ease;">
+  </a>
+  <a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40" style="filter: grayscale(0%); transition: filter 0.3s ease;">
+  </a>
+  <a href="https://twitter.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="40" height="40" style="filter: grayscale(0%); transition: filter 0.3s ease;">
+  </a>
+  <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40" style="filter: grayscale(0%); transition: filter 0.3s ease;">
   </a>
 </p>
 
+<p align="center" style="font-size: 14px; color: #555;">
+  <a href="https://www.linkedin.com/in/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration: none; color: #0A66C2;">LinkedIn</a> | 
+  <a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration: none; color: #333;">GitHub</a> | 
+  <a href="https://twitter.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration: none; color: #1DA1F2;">Twitter</a> | 
+  <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; text-decoration: none; color: #D44638;">Email</a>
+</p>
 ---
 
 ### 🛠️Languages and Tools
