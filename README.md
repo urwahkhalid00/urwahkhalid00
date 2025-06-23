@@ -13,7 +13,7 @@
 
 ---
 
-### 📫 Connect with me
+## 📫 Connect with me
 
 
 <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
@@ -57,21 +57,18 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="26" />
 </p>
 
+---
 
+# 📈 Stats and Activity
 
-
-### 📈 GitHub Stats
-
-### 📈 GitHub Stats
+### 💻 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urwahkhalid00&layout=compact&theme=light" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=urwahkhalid00&show_icons=true&theme=light" alt="GitHub Stats" />
-  <!-- <img src="https://streak-stats.demolab.com?user=urwahkhalid00&theme=light" alt="GitHub Streak" />
- -->
-  <img src="https://streak-stats.demolab.com?user=urwahkhalid00&theme=light&border_radius=4.5" alt="GitHub Streak" />
 </p>
 
+### Streak Stats
 
 
 
