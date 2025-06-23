@@ -67,7 +67,9 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urwahkhalid00&layout=compact&theme=light" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=urwahkhalid00&show_icons=true&theme=light" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=urwahkhalid00&theme=light" alt="GitHub Streak" />
+  <!-- <img src="https://streak-stats.demolab.com?user=urwahkhalid00&theme=light" alt="GitHub Streak" />
+ -->
+  <img src="https://streak-stats.demolab.com?user=urwahkhalid00&theme=light&border_radius=4.5" alt="GitHub Streak" />
 </p>
 
 
