@@ -3,7 +3,7 @@
 
 ---
 
-### 🌟About Me
+## 🌟About Me
 
 - 🔭 I’m currently working on improving my Python projects  
 - 🌱 I’m currently learning databases and APIs  
@@ -63,8 +63,10 @@
 ### 📈GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urwahkhalid00&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=urwahkhalid00&show_icons=true&theme=light" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urwahkhalid00&layout=compact&theme=light" />
+</p>
 ---
 
