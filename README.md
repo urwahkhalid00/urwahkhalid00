@@ -24,7 +24,7 @@
   <img src="images/github.png" alt="GitHub" width="32" height="32" />
 </a>&nbsp;&nbsp;
 
-<a href="https://twitter.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
+<a href="https://twitter.com/urwahkhalid" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
   <img src="images/twitter.png" alt="Twitter" width="32" height="32" />
 </a>&nbsp;&nbsp;
 
