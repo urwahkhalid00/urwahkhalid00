@@ -74,9 +74,8 @@
 
 ### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=urwahkhalid00&theme=default" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=urwahkhalid00&theme=default)
+
 
 ---
 
