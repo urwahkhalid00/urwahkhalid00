@@ -75,7 +75,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=urwahkhalid00&theme=gruvbox-duo" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=urwahkhalid00&theme=light" alt="GitHub Streak" />
 </p>
  
 
