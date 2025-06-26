@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=urwahkhalid00&show_icons=true&theme=light" alt="GitHub Stats" />
 </p>
 
-<!-- ### Streak Stats -->
+
 
 ### 🔥 GitHub Streak
 
@@ -96,7 +96,7 @@
 ---
 
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 ### 📝 Task Manager App
 A Django-based web application to create, update, and manage tasks.  
@@ -104,4 +104,4 @@ A Django-based web application to create, update, and manage tasks.
 
 ### 📊 Weather Dashboard
 Displays weather forecasts using a Flask backend and OpenWeather API.  
-🔗 [GitHub Repo](https://github.com/your-repo-link)
+🔗 [GitHub Repo](https://github.com/your-repo-link) -->
