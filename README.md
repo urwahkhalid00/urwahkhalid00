@@ -96,3 +96,12 @@
 ---
 
 
+## 🚀 Featured Projects
+
+### 📝 Task Manager App
+A Django-based web application to create, update, and manage tasks.  
+🔗 [GitHub Repo](https://github.com/your-repo-link)
+
+### 📊 Weather Dashboard
+Displays weather forecasts using a Flask backend and OpenWeather API.  
+🔗 [GitHub Repo](https://github.com/your-repo-link)
