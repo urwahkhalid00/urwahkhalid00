@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Urwah Khalid</h1>
-<h2 align="center">Python Developer | Backend Enthusiast | Lifelong Learner</h2>
+<h2 align="center">Python Developer | Backend Enthusiast</h2>
 
 ---
 
