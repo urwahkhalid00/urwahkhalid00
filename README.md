@@ -5,8 +5,8 @@
 
 ## 🌟About Me
 
-- 🔭 I’m currently working on improving my Python projects  
-- 🌱 I’m currently learning databases and APIs  
+- 🔭 I’m currently enhancing my Django and Flask projects with RESTful APIs  
+- 🌱 Learning PostgreSQL and advanced database design  
 - 👯 I’m looking to collaborate on open source projects and challenging tasks  
 - 💬 Ask me about Python and problem-solving  
 - ⚡ Fun fact: I love challenges and learning new things every day!
@@ -75,7 +75,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=urwahkhalid00" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=urwahkhalid00&theme=light" alt="GitHub Streak" />
 </p>
 
 ---
@@ -95,13 +95,3 @@
 
 ---
 
-
-<!-- ## 🚀 Featured Projects
-
-### 📝 Task Manager App
-A Django-based web application to create, update, and manage tasks.  
-🔗 [GitHub Repo](https://github.com/your-repo-link)
-
-### 📊 Weather Dashboard
-Displays weather forecasts using a Flask backend and OpenWeather API.  
-🔗 [GitHub Repo](https://github.com/your-repo-link) -->
