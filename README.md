@@ -39,24 +39,7 @@
 
 <p><em>Languages, frameworks, and tools I'm working with or learning</em></p>
 
-### 🛠 Languages
-<!-- Python | JavaScript | HTML5 | CSS3 | SQL -->
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="26" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3" height="26" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="26" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="26" />
-
-### ⚙️ Frameworks & Libraries
-<!-- Django | Flask | Bootstrap -->
-<img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django" alt="Django" height="26" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask" alt="Flask" height="26" />
-### 🧰 Tools & Platforms
-Git | GitHub | VS Code | Vercel | Canva
-
-### 🗃️ Databases
-SQLite | PostgreSQL
-
-<!-- <p>
+<p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="26" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3" height="26" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="26" />
@@ -74,7 +57,7 @@ SQLite | PostgreSQL
   <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="26" />
   <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" height="26" />
 
-</p> -->
+</p>
 
 ---
 
