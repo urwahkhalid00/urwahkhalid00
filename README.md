@@ -15,9 +15,6 @@
 
 ## 📫 Connect with me
 
- <a href="https://linkedin.com/in/urwah-khalid-988b7b268" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
-  </a>
 <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
   <img src="images/linkedin.png" alt="LinkedIn" width="32" height="32" />
 </a>&nbsp;&nbsp;
