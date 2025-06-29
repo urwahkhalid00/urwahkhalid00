@@ -17,7 +17,7 @@
 
 <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
   <img src="images/linkedin.png" alt="LinkedIn" width="32" height="32" />
-</a>
+</a><br>
 
 <a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
   <img src="images/github.png" alt="GitHub" width="32" height="32" />
