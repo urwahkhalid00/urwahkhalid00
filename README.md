@@ -66,7 +66,7 @@
 ### 🧩 Core Concepts
 
 <p>
-  <img src="https://img.shields.io/badge/-Object_Oriented_Programming-007ACC?style=flat" alt="Object-Oriented Programming (OOP)" height="26" />
+  <img src="https://img.shields.io/badge/-Object_Oriented_Programming-007ACC?style=flat" alt="Object-Oriented Programming(OOP)" height="26" />
   <img src="https://img.shields.io/badge/-RESTful_API-00BCD4?style=flat&logo=rest&logoColor=white" alt="RESTful APIs" height="26" />
 </p>
 
