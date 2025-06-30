@@ -38,7 +38,7 @@
 
 <p><em>Languages, frameworks, and tools I use or am currently learning</em></p>
 
-##🧠 Languages
+## 🧠 Languages
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="26" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3" height="26" />
