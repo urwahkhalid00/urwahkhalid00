@@ -5,11 +5,11 @@
 
 ## 🌟About Me
 
-- 🔭 I’m currently enhancing my Django and Flask projects with RESTful APIs  
-- 🌱 Learning PostgreSQL and advanced database design  
-- 👯 I’m looking to collaborate on open source projects and challenging tasks  
-- 💬 Ask me about Python and problem-solving  
-- ⚡ Fun fact: I love challenges and learning new things every day!
+- 🔭 Currently working on RESTful APIs with Django and Flask  
+- 🌱 Exploring advanced database design with PostgreSQL  
+- 👯 Open to collaborating on open-source and impactful projects  
+- 💬 Ask me about Python, APIs, or solving tricky problems  
+- ⚡ Fun fact: I'm a fast learner who enjoys pushing boundaries!
 
 ---
 
