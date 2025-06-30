@@ -9,7 +9,7 @@
 - 🌱 Exploring advanced database design with PostgreSQL  
 - 👯 Open to collaborating on open-source and impactful projects  
 - 💬 Ask me about Python, APIs, or solving tricky problems  
-- ⚡ Fun fact: I'm a fast learner who enjoys pushing boundaries!
+- ⚡ Fun fact: I enjoy tackling new challenges and continuously learning to grow as a developer!
 
 ---
 
