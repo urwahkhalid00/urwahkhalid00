@@ -1,5 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Urwah Khalid</h1>
-<h2 align="center">🐍 Python &🔧  Django Developer</h2>
+<h1 align="center">🐍 Python &🔧  Django Developer</h1>
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/urwah-khalid-988b7b268/)
+- 💻 [GitHub](https://github.com/urwahkhalid00)
+- 🐦 [Twitter](https://twitter.com/urwahkhalid)
+- 📧 [Email](mailto:urwahkhalid00@gmail.com)
+
 
 ---
 
@@ -13,7 +19,7 @@
 
 ---
 
-## 📫 Connect with me
+<!-- ## 📫 Connect with me
 
 <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
   <img src="images/linkedin.png" alt="LinkedIn" width="32" height="32" />
@@ -28,7 +34,7 @@
 </a>&nbsp;&nbsp;
 
 <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="images/gmail.png" alt="Email" width="32" height="32" />
+  <img src="images/gmail.png" alt="Email" width="32" height="32" /> -->
 </a>
 
 
