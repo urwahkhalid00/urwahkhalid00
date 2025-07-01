@@ -95,11 +95,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=github-light" alt="GitHub Contribution Graph" />
 </p>
 
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=urwahkhalid00&theme=flat&no-frame=true&margin-w=5" alt="GitHub Trophy" />
-</p>
-
 
 ---
