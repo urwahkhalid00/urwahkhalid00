@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Urwah Khalid</h1>
-<h1 align="center" style="color:#3776AB;">🐍 Python & Django Developer</h1>
+<h1 align="center" style="white;">🐍 Python & Django Developer</h1>
 
 
 <p align="center">
