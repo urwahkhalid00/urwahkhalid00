@@ -1,29 +1,35 @@
 <h1 align="center">Hi there 👋, I'm Urwah Khalid</h1>
 <div align="center">
 
-  <h1 style="background: linear-gradient(90deg, #306998, #1E90FF, #4B0082); 
-             -webkit-background-clip: text; 
-             -webkit-text-fill-color: transparent;">
-    🐍 Python &🔧 Django Developer
-  </h1>
+# 🐍 Python & 🔧 Django Developer
 
-  <p>
-    <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="26" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="26" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://twitter.com/urwahkhalid" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="26" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="26" />
-    </a>
-  </p>
+<br />
+
+<!-- Colored badges as "colorful effect" below the header -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</p>
+
+<!-- Social badges -->
+<p>
+  <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="26" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="26" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/urwahkhalid" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="26" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="26" />
+  </a>
+</p>
 
 </div>
 
