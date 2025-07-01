@@ -1,19 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Urwah Khalid</h1>
-<div align="center">
+<h1 align="center">🐍 Python &🔧  Django Developer</h1>
 
-# 🐍 Python & 🔧 Django Developer
-
-<br />
-
-<!-- Colored badges as "colorful effect" below the header -->
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</p>
-
-<!-- Social badges -->
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="26" />
   </a>
@@ -30,8 +18,6 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="26" />
   </a>
 </p>
-
-</div>
 
 
 ---
