@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#007ACC">Urwah Khalid</span></h1>
+# 👋 Hi there, I'm **Urwah Khalid**
 
 <h2 align="center">Python Developer | Backend Enthusiast</h2>
 
