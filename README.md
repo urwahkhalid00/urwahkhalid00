@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Urwah Khalid</h1>
-<h1 align="center">🐍 Python &🔧  Django Developer</h1>
+<h1 align="center" style="color:#3776AB;">🐍 Python & Django Developer</h1>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer">
