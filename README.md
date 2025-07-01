@@ -1,10 +1,23 @@
 <h1 align="center">Hi there 👋, I'm Urwah Khalid</h1>
 <h1 align="center">🐍 Python &🔧  Django Developer</h1>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urwah-khalid-988b7b268/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/urwahkhalid00)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/urwahkhalid)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:urwahkhalid00@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/urwahkhalid" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="32" />
+  </a>
+</p>
 
 
 ---
@@ -16,27 +29,6 @@
 - 👯 Open to collaborating on open-source and impactful projects  
 - 💬 Ask me about Python, APIs, or solving tricky problems  
 - ⚡ Fun fact: I enjoy tackling new challenges and continuously learning to grow as a developer!
-
----
-
-<!-- ## 📫 Connect with me
-
-<a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
-  <img src="images/linkedin.png" alt="LinkedIn" width="32" height="32" />
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
-  <img src="images/github.png" alt="GitHub" width="32" height="32" />
-</a>&nbsp;&nbsp;
-
-<a href="https://twitter.com/urwahkhalid" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
-  <img src="images/twitter.png" alt="Twitter" width="32" height="32" />
-</a>&nbsp;&nbsp;
-
-<a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="images/gmail.png" alt="Email" width="32" height="32" />
-</a> -->
-
 
 ---
 
