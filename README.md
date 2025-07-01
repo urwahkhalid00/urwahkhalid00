@@ -1,24 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Urwah Khalid</h1>
-<h1 align="center" style="
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(to right, #34ace0, #33d9b2, #ffb142, #ff5252);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-size: 3em;
-  text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
-  animation: pulse 2s infinite;
-">
-  🐍 Python &🔧 Django Developer
-</h1>
-
-<style>
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-</style>
-
+<h1 align="center">🐍 Python &🔧  Django Developer</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer">
