@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Urwah Khalid</h1>
-<!-- <p align="center" style="white;">🐍 Python & Django Developer</p> -->
-<p>I'm a <span class="typed" data-typed-items="Junior Python Developer, Full-Stack Developer, Web Developer">Designer</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+<p align="center">🐍 Python & Django Developer</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer">
