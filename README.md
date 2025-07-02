@@ -1,11 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Urwah Khalid</h1>
-<p align="center" style="font-size:32px;">
-  <span style="color:#3572A5;">🐍 <strong>Python</strong></span> &nbsp;|&nbsp; 
-  <span style="color:#092E20;"><strong>Django Developer</strong></span>
-</p>
+<!-- <p align="center" style="white;">🐍 Python & Django Developer</p> -->
+<p>I'm a <span class="typed" data-typed-items="Junior Python Developer, Full-Stack Developer, Web Developer">Designer</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
 
-
-<!-- <p align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="26" />
   </a>
@@ -21,7 +18,7 @@
   <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="26" />
   </a>
-</p> -->
+</p>
 
 
 ---
