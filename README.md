@@ -3,7 +3,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+Developer;Driven+by+code%2C+fueled+by+curiosity!" alt="Typing SVG">
 </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://twitter.com/urwahkhalid" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Twitter--1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Email--D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+<h3 align="center">Let's Connect</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/urwahkhalid" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="35" height="35" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="35" height="35" />
+  </a>
+</p>
+
 
 
 
