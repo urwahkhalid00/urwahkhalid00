@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Urwah Khalid</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+%26+Django+Developer;Driven+by+code%2C+fueled+by+curiosity!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+Developer;Driven+by+code%2C+fueled+by+curiosity!" alt="Typing SVG">
 </p>
 
 
