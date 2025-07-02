@@ -20,11 +20,6 @@
   </a>
 </p>
 
-
----
-
-## 🌟About Me
-
 - 🔭 Currently working on RESTful APIs with Django and Flask  
 - 🌱 Exploring advanced database design with PostgreSQL  
 - 👯 Open to collaborating on open-source and impactful projects  
