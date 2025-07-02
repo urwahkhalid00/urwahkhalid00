@@ -4,7 +4,7 @@
 </p>
 
 
-<p align="center"> <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://twitter.com/urwahkhalid" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/> </a> &nbsp;&nbsp; <a href="https://twitter.com/urwahkhalid" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/> </a> &nbsp;&nbsp; <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="30" height="30"/> </a> </p>
 
 
 
