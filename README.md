@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Urwah Khalid</h1>
-<p align="center">🐍 Python & Django Developer</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=%F0%9F%90%8D+Python+%26+Django+Developer;Crafting+clean+code+with+Python+every+day!" alt="Typing SVG">
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer">
