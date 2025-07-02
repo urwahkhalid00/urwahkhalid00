@@ -3,26 +3,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+Developer;Driven+by+code%2C+fueled+by+curiosity!" alt="Typing SVG">
 </p>
 
-
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="26" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/urwahkhalid00" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="26" />
-  </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/urwahkhalid" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="26" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="28" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="26" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="28" />
   </a>
 </p>
+
 
 
 ---
