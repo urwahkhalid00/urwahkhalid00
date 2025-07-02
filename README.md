@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Urwah Khalid</h1>
-<p align="center" style="font-size:24px;">
+<p align="center" style="font-size:32px;">
   <span style="color:#3572A5;">🐍 <strong>Python</strong></span> &nbsp;|&nbsp; 
   <span style="color:#092E20;"><strong>Django Developer</strong></span>
 </p>
