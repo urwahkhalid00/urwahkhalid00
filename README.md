@@ -11,7 +11,6 @@
   <a href="https://twitter.com/urwahkhalid" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="28" />
   </a>
-  &nbsp;
   <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="28" />
   </a>
