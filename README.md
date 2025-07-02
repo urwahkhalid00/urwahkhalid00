@@ -3,7 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+Developer;Driven+by+code%2C+fueled+by+curiosity!" alt="Typing SVG">
 </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://twitter.com/urwahkhalid" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Twitter--1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Email--D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+📬 Let's Connect
+<table> <tr> <td> <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </td> <td> <a href="https://twitter.com/urwahkhalid" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> </td> <td> <a href="mailto:urwahkhalid00@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </td> </tr> </table>
 
 
 
