@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on RESTful APIs with Django and Flask  
 - 🌱 Exploring advanced database design with PostgreSQL  
-- 👯 Open to collaborating on open-source and impactful projects....
+- 👯 Open to collaborating on open-source and impactful projects
 - ⚡ Fun fact: I enjoy tackling new challenges and continuously learning to grow as a developer!
 
 ---
@@ -22,7 +22,7 @@
 
 ### 🧠 Languages
 
-<p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="36" />
+<p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="26" />
    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="26" />
    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3" height="26" />
    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="26" />
