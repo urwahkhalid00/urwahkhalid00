@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on RESTful APIs with Django and Flask  
 - 🌱 Exploring advanced database design with PostgreSQL  
-- 👯 Open to collaborating on open-source and impactful projects  
+- 👯 Open to collaborating on open-source and impactful projects....
 - ⚡ Fun fact: I enjoy tackling new challenges and continuously learning to grow as a developer!
 
 ---
