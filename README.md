@@ -23,44 +23,44 @@
 
 ### 🧠 Languages
 
-<div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/python" alt="Python" title="Python" width="32px" />
-  <img src="https://iconic-api.onrender.com/dark/html" alt="HTML" title="HTML" width="32px" />
-  <img src="https://iconic-api.onrender.com/dark/css" alt="CSS" title="CSS" width="32px" />
-  <img src="https://iconic-api.onrender.com/dark/js" alt="JavaScript" title="JavaScript" width="32px" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" style="height: 28px;" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F28?style=flat&logo=html5&logoColor=white" style="height: 28px;" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" style="height: 28px;" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="height: 28px;" />
+</p>
 
 ### ⚙️ Frameworks & Libraries
 
-<div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/django" alt="Django" title="Django" width="32px" />
-  <img src="https://iconic-api.onrender.com/dark/flask" alt="Flask" title="Flask" width="32px" />
-  <img src="https://iconic-api.onrender.com/dark/bootstrap" alt="Bootstrap" title="Bootstrap" width="32px" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django" style="height: 28px;" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask" style="height: 28px;" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" style="height: 28px;" />
+</p>
 
 ### 🗄️ Databases
 
-<div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/postgresql" alt="PostgreSQL" title="PostgreSQL" width="32px" />
-  <img src="https://iconic-api.onrender.com/dark/sqlite" alt="SQLite" title="SQLite" width="32px" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" style="height: 28px;" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" style="height: 28px;" />
+</p>
 
 ### 🧰 Tools & Platforms
 
-<div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/git" alt="Git" title="Git" width="32px" />
-  <img src="https://iconic-api.onrender.com/dark/github" alt="GitHub" title="GitHub" width="32px" />
-  <img src="https://iconic-api.onrender.com/dark/vscode" alt="VS Code" title="VS Code" width="32px" />
-  <img src="https://iconic-api.onrender.com/dark/vercel" alt="Vercel" title="Vercel" width="32px" />
-  <img src="https://iconic-api.onrender.com/dark/canva" alt="Canva" title="Canva" width="32px" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/-Git-FF5733?style=flat&logo=git&logoColor=white" style="height: 28px;" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" style="height: 28px;" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" style="height: 28px;" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" style="height: 28px;" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" style="height: 28px;" />
+</p>
 
 ### 🧩 Core Concepts
 
-<div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/oop" alt="OOP" title="Object-Oriented Programming" width="32px" />
-  <img src="https://iconic-api.onrender.com/dark/api" alt="RESTful API" title="RESTful API" width="32px" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/-Object_Oriented_Programming-007ACC?style=flat" style="height: 28px;" />
+  <img src="https://img.shields.io/badge/-RESTful_API-00BCD4?style=flat&logo=rest&logoColor=white" style="height: 28px;" />
+</p>
 
 ---
 
