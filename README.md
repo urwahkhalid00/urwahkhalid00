@@ -104,19 +104,15 @@
 </div>
 
 ### ⚙️ Frameworks & Libraries
-
-<div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/django" alt="Django" title="Django" width="32px" />
-  <img src="https://iconic-api.onrender.com/dark/flask" alt="Flask" title="Flask" width="32px" />
-  <img src="https://iconic-api.onrender.com/dark/bootstrap" alt="Bootstrap" title="Bootstrap" width="32px" />
+<div style="display:flex;gap:8px;align-items:center;">
+  <img src="https://iconic-api.onrender.com/dark/bootstrap" alt="Bootstrap" title="Bootstrap" width="32px"/>
 </div>
 
 ### 🗄️ Databases
-
-<div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/postgresql" alt="PostgreSQL" title="PostgreSQL" width="32px" />
-  <img src="https://iconic-api.onrender.com/dark/sqlite" alt="SQLite" title="SQLite" width="32px" />
+<div style="display:flex;gap:8px;align-items:center;">
+  <img src="https://iconic-api.onrender.com/dark/sqlite" alt="SQLite" title="SQLite" width="32px"/>
 </div>
+
 
 ### 🧰 Tools & Platforms
 
@@ -128,12 +124,13 @@
   <img src="https://iconic-api.onrender.com/dark/canva" alt="Canva" title="Canva" width="32px" />
 </div>
 
-### 🧩 Core Concepts
 
-<div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/oop" alt="OOP" title="Object-Oriented Programming" width="32px" />
-  <img src="https://iconic-api.onrender.com/dark/api" alt="RESTful API" title="RESTful API" width="32px" />
+### 🧩 Core Concepts
+<div style="display:flex;gap:8px;align-items:center;">
+  <img src="https://api.iconify.design/mdi:cube.svg" alt="OOP" title="Object‑Oriented Programming" width="32px"/>
+  <img src="https://api.iconify.design/mdi:api.svg" alt="RESTful API" title="RESTful API" width="32px"/>
 </div>
+
 
 
 
