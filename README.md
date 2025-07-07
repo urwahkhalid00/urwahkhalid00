@@ -89,5 +89,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=github-light" alt="GitHub Contribution Graph" />
 </p>
 
-## HTML
 
