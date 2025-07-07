@@ -134,3 +134,46 @@
   <img src="https://iconic-api.onrender.com/dark/oop" alt="OOP" title="Object-Oriented Programming" width="32px" />
   <img src="https://iconic-api.onrender.com/dark/api" alt="RESTful API" title="RESTful API" width="32px" />
 </div> -->
+
+
+
+## 👨‍💻 Tech Stack
+
+<p><em>Languages, frameworks, and tools I use or am currently learning</em></p>
+
+### 🧠 Languages
+<div style="display: flex; gap: 8px; align-items: center;">
+  <img src="https://iconic-api.onrender.com/dark/python" alt="Python" title="Python" width="32px" />
+  <img src="https://iconic-api.onrender.com/dark/html" alt="HTML" title="HTML" width="32px" />
+  <img src="https://iconic-api.onrender.com/dark/css" alt="CSS" title="CSS" width="32px" />
+  <img src="https://iconic-api.onrender.com/dark/js" alt="JavaScript" title="JavaScript" width="32px" />
+</div>
+
+### ⚙️ Frameworks & Libraries
+<div style="display: flex; gap: 8px; align-items: center;">
+  <img src="https://iconic-api.onrender.com/dark/django" alt="Django" title="Django" width="32px" />
+  <img src="https://iconic-api.onrender.com/dark/flask" alt="Flask" title="Flask" width="32px" />
+  <img src="https://iconic-api.onrender.com/dark/bootstrap" alt="Bootstrap" title="Bootstrap" width="32px" />
+</div>
+
+### 🗄️ Databases
+<div style="display: flex; gap: 8px; align-items: center;">
+  <img src="https://iconic-api.onrender.com/dark/postgresql" alt="PostgreSQL" title="PostgreSQL" width="32px" />
+  <img src="https://iconic-api.onrender.com/dark/sqlite" alt="SQLite" title="SQLite" width="32px" />
+</div>
+
+### 🧰 Tools & Platforms
+<div style="display: flex; gap: 8px; align-items: center;">
+  <img src="https://iconic-api.onrender.com/dark/git" alt="Git" title="Git" width="32px" />
+  <img src="https://iconic-api.onrender.com/dark/github" alt="GitHub" title="GitHub" width="32px" />
+  <img src="https://iconic-api.onrender.com/dark/vscode" alt="VS Code" title="VS Code" width="32px" />
+  <img src="https://iconic-api.onrender.com/dark/vercel" alt="Vercel" title="Vercel" width="32px" />
+  <img src="https://iconic-api.onrender.com/dark/canva" alt="Canva" title="Canva" width="32px" />
+</div>
+
+### 🧩 Core Concepts
+<div style="display: flex; gap: 8px; align-items: center;">
+  <!-- Example third-party replacement for API concept: -->
+  <img src="https://api.iconify.design/mdi:api.svg" alt="RESTful API" title="RESTful API" width="32px" />
+  <!-- For OOP, you can replace with code icon or remove -->
+</div>
