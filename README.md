@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60" alt="Waving hand GIF">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F78C6C&center=true&vCenter=true&width=700&lines=🧑‍💻+Hi+there!+I'm+a+Python+Dev;🎯+Solving+real-world+problems+with+code;✨+Let's+collab+and+create+impact!" alt="Typing Animation" />
 </p>
-<h1 align="center">Hi there!</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+Developer;Driven+by+code%2C+fueled+by+curiosity!" alt="Typing SVG">
