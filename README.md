@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=👋+Hi+there!;💻+Welcome+to+my+GitHub+Profile;🚀+Let's+build+awesome+things+together!" alt="Typing SVG" />
-</p>
-
+<h1 align="center">Hi there!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+Developer;Driven+by+code%2C+fueled+by+curiosity!" alt="Typing SVG">
 </p>
