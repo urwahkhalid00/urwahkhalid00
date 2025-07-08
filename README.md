@@ -16,9 +16,6 @@
 
 ## 👨‍💻 Tech Stack
 
-
-###  Languages
-
 <div style="display: flex; gap: 8px; align-items: center;">
   <img src="https://iconic-api.onrender.com/dark/python" alt="Python" title="Python" width="50px" />
   <img src="https://iconic-api.onrender.com/dark/html" alt="HTML" title="HTML" width="50px" />
@@ -26,24 +23,17 @@
   <img src="https://iconic-api.onrender.com/dark/js" alt="JavaScript" title="JavaScript" width="50px" />
 </div>
 
-###  Frameworks & Libraries
-
 <div style="display: flex; gap: 8px; align-items: center;">
   <img src="https://iconic-api.onrender.com/dark/django" alt="Django" title="Django" width="50px" />
   <img src="https://iconic-api.onrender.com/dark/flask" alt="Flask" title="Flask" width="50px" />
-  <!-- <img src="https://iconic-api.onrender.com/dark/bootstrap" alt="Bootstrap" title="Bootstrap" width="50px" /> -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bootstrap.svg" alt="Bootstrap" width="50px" title="Bootstrap" />
-
+  <img src="https://iconic-api.onrender.com/dark/bootstrap" alt="Bootstrap" title="Bootstrap" width="50px" />
 </div>
-
-###  Databases
 
 <div style="display: flex; gap: 8px; align-items: center;">
   <img src="https://iconic-api.onrender.com/dark/postgresql" alt="PostgreSQL" title="PostgreSQL" width="50px" />
   <img src="https://iconic-api.onrender.com/dark/sqlite" alt="SQLite" title="SQLite" width="50px" />
 </div>
 
-###  Tools & Platforms
 
 <div style="display: flex; gap: 8px; align-items: center;">
   <img src="https://iconic-api.onrender.com/dark/git" alt="Git" title="Git" width="50px" />
@@ -53,7 +43,6 @@
   <img src="https://iconic-api.onrender.com/dark/canva" alt="Canva" title="Canva" width="50px" />
 </div>
 
-###  Core Concepts
 
 <div style="display: flex; gap: 8px; align-items: center;">
   <img src="https://iconic-api.onrender.com/dark/oop" alt="OOP" title="Object-Oriented Programming" width="50px" />
