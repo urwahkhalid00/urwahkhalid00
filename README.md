@@ -31,7 +31,9 @@
 <div style="display: flex; gap: 8px; align-items: center;">
   <img src="https://iconic-api.onrender.com/dark/django" alt="Django" title="Django" width="50px" />
   <img src="https://iconic-api.onrender.com/dark/flask" alt="Flask" title="Flask" width="50px" />
-  <img src="https://iconic-api.onrender.com/dark/bootstrap" alt="Bootstrap" title="Bootstrap" width="50px" />
+  <!-- <img src="https://iconic-api.onrender.com/dark/bootstrap" alt="Bootstrap" title="Bootstrap" width="50px" /> -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bootstrap.svg" alt="Bootstrap" width="50px" title="Bootstrap" />
+
 </div>
 
 ###  Databases
