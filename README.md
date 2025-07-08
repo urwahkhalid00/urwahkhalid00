@@ -24,7 +24,7 @@
 ### 🧠 Languages
 
 <div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/python" alt="Python" title="Python" width="32px" />
+  <img src="https://iconic-api.onrender.com/dark/python" alt="Python" title="Python" width="40px" />
   <img src="https://iconic-api.onrender.com/dark/html" alt="HTML" title="HTML" width="32px" />
   <img src="https://iconic-api.onrender.com/dark/css" alt="CSS" title="CSS" width="32px" />
   <img src="https://iconic-api.onrender.com/dark/js" alt="JavaScript" title="JavaScript" width="32px" />
