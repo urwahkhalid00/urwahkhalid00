@@ -20,7 +20,7 @@
 
 ## 👨‍💻 Tech Stack
 
-<table>
+<!-- <table>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
@@ -139,7 +139,7 @@
   </tr>
  <tr>
  </tr>
-</table>
+</table> -->
 
 <div style="display: flex; gap: 8px; align-items: center;">
   <img src="https://iconic-api.onrender.com/dark/python" alt="Python" title="Python" width="50px" />
