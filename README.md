@@ -16,37 +16,64 @@
 
 ## 👨‍💻 Tech Stack
 
-<div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/python" alt="Python" title="Python" width="50px" />
-  <img src="https://iconic-api.onrender.com/dark/html" alt="HTML" title="HTML" width="50px" />
-  <img src="https://iconic-api.onrender.com/dark/css" alt="CSS" title="CSS" width="50px" />
-  <img src="https://iconic-api.onrender.com/dark/js" alt="JavaScript" title="JavaScript" width="50px" />
+<!-- Languages -->
+<h3>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" 
+       alt="Languages" 
+       width="20px" 
+       style="vertical-align: middle; margin-right: 6px;" />
+  Languages
+</h3>
+<div style="display: flex; gap: 8px;">
+  <!-- your language icons -->
 </div>
 
-<div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/django" alt="Django" title="Django" width="50px" />
-  <img src="https://iconic-api.onrender.com/dark/flask" alt="Flask" title="Flask" width="50px" />
-  <img src="https://iconic-api.onrender.com/dark/bootstrap" alt="Bootstrap" title="Bootstrap" width="50px" />
+<!-- Frameworks & Libraries -->
+<h3>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/django.svg" 
+       alt="Frameworks" 
+       width="20px" 
+       style="vertical-align: middle; margin-right: 6px;" />
+  Frameworks & Libraries
+</h3>
+<div style="display: flex; gap: 8px;">
+  <!-- framework icons -->
 </div>
 
-<div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/postgresql" alt="PostgreSQL" title="PostgreSQL" width="50px" />
-  <img src="https://iconic-api.onrender.com/dark/sqlite" alt="SQLite" title="SQLite" width="50px" />
+<!-- Databases -->
+<h3>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg" 
+       alt="Databases" 
+       width="20px" 
+       style="vertical-align: middle; margin-right: 6px;" />
+  Databases
+</h3>
+<div style="display: flex; gap: 8px;">
+  <!-- database icons -->
 </div>
 
-
-<div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/git" alt="Git" title="Git" width="50px" />
-  <img src="https://iconic-api.onrender.com/dark/github" alt="GitHub" title="GitHub" width="50px" />
-  <img src="https://iconic-api.onrender.com/dark/vscode" alt="VS Code" title="VS Code" width="50px" />
-  <img src="https://iconic-api.onrender.com/dark/vercel" alt="Vercel" title="Vercel" width="50px" />
-  <img src="https://iconic-api.onrender.com/dark/canva" alt="Canva" title="Canva" width="50px" />
+<!-- Tools & Platforms -->
+<h3>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" 
+       alt="Tools" 
+       width="20px" 
+       style="vertical-align: middle; margin-right: 6px;" />
+  Tools & Platforms
+</h3>
+<div style="display: flex; gap: 8px;">
+  <!-- tool icons -->
 </div>
 
-
-<div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/oop" alt="OOP" title="Object-Oriented Programming" width="50px" />
-  <img src="https://iconic-api.onrender.com/dark/api" alt="RESTful API" title="RESTful API" width="50px" />
+<!-- Core Concepts -->
+<h3>
+  <img src="https://img.icons8.com/ios-filled/50/class.png" 
+       alt="Concepts" 
+       width="20px" 
+       style="vertical-align: middle; margin-right: 6px;" />
+  Core Concepts
+</h3>
+<div style="display: flex; gap: 8px;">
+  <!-- concept icons -->
 </div>
 
 ---
