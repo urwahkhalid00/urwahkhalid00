@@ -24,10 +24,10 @@
 ### 🧠 Languages
 
 <div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/python" alt="Python" title="Python" width="60px" />
-  <img src="https://iconic-api.onrender.com/dark/html" alt="HTML" title="HTML" width="60px" />
-  <img src="https://iconic-api.onrender.com/dark/css" alt="CSS" title="CSS" width="60px" />
-  <img src="https://iconic-api.onrender.com/dark/js" alt="JavaScript" title="JavaScript" width="60px" />
+  <img src="https://iconic-api.onrender.com/dark/python" alt="Python" title="Python" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/html" alt="HTML" title="HTML" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/css" alt="CSS" title="CSS" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/js" alt="JavaScript" title="JavaScript" width="50px" />
 </div>
 
 ### ⚙️ Frameworks & Libraries
