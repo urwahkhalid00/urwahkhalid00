@@ -16,45 +16,37 @@
 
 ## 👨‍💻 Tech Stack
 
-<!-- Languages -->
-<h3>Languages</h3>
 <div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" alt="Python" title="Python" width="40px" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" alt="HTML" title="HTML" width="40px" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" alt="CSS" title="CSS" width="40px" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="40px" />
+  <img src="https://iconic-api.onrender.com/dark/python" alt="Python" title="Python" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/html" alt="HTML" title="HTML" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/css" alt="CSS" title="CSS" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/js" alt="JavaScript" title="JavaScript" width="50px" />
 </div>
 
-<!-- Frameworks & Libraries -->
-<h3>Frameworks & Libraries</h3>
 <div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/django.svg" alt="Django" title="Django" width="40px" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/flask.svg" alt="Flask" title="Flask" width="40px" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="40px" />
+  <img src="https://iconic-api.onrender.com/dark/django" alt="Django" title="Django" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/flask" alt="Flask" title="Flask" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/bootstrap" alt="Bootstrap" title="Bootstrap" width="50px" />
 </div>
 
-<!-- Databases -->
-<h3>Databases</h3>
 <div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="40px" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sqlite.svg" alt="SQLite" title="SQLite" width="40px" />
+  <img src="https://iconic-api.onrender.com/dark/postgresql" alt="PostgreSQL" title="PostgreSQL" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/sqlite" alt="SQLite" title="SQLite" width="50px" />
 </div>
 
-<!-- Tools & Platforms -->
-<h3>Tools & Platforms</h3>
+
 <div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" alt="Git" title="Git" width="40px" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub" title="GitHub" width="40px" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.svg" alt="VS Code" title="VS Code" width="40px" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vercel.svg" alt="Vercel" title="Vercel" width="40px" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/canva.svg" alt="Canva" title="Canva" width="40px" />
+  <img src="https://iconic-api.onrender.com/dark/git" alt="Git" title="Git" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/github" alt="GitHub" title="GitHub" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/vscode" alt="VS Code" title="VS Code" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/vercel" alt="Vercel" title="Vercel" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/canva" alt="Canva" title="Canva" width="50px" />
 </div>
 
-<!-- Core Concepts -->
-<h3>Core Concepts</h3>
+
 <div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://img.icons8.com/ios-filled/50/class.png" alt="OOP" title="Object-Oriented Programming" width="40px" />
-  <img src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="RESTful API" title="RESTful API" width="40px" />
+  <img src="https://iconic-api.onrender.com/dark/oop" alt="OOP" title="Object-Oriented Programming" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/api" alt="RESTful API" title="RESTful API" width="50px" />
 </div>
 
 ---
