@@ -21,16 +21,16 @@
 
 <p><em>Languages, frameworks, and tools I use or am currently learning</em></p>
 
-### 🧠 Languages
+###  Languages
 
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" style="height: 28px;" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F28?style=flat&logo=html5&logoColor=white" style="height: 28px;" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" style="height: 28px;" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="height: 28px;" />
-</p>
+<div style="display: flex; gap: 8px; align-items: center;">
+  <img src="https://iconic-api.onrender.com/dark/python" alt="Python" title="Python" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/html" alt="HTML" title="HTML" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/css" alt="CSS" title="CSS" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/js" alt="JavaScript" title="JavaScript" width="50px" />
+</div>
 
-### ⚙️ Frameworks & Libraries
+###  Frameworks & Libraries
 
 <p>
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django" style="height: 28px;" />
@@ -38,14 +38,14 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" style="height: 28px;" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 
 <p>
   <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" style="height: 28px;" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" style="height: 28px;" />
 </p>
 
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/-Git-FF5733?style=flat&logo=git&logoColor=white" style="height: 28px;" />
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" style="height: 28px;" />
 </p>
 
-### 🧩 Core Concepts
+###  Core Concepts
 
 <p>
   <img src="https://img.shields.io/badge/-Object_Oriented_Programming-007ACC?style=flat" style="height: 28px;" />
