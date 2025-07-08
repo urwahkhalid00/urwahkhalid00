@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>&nbsp; <a href="https://twitter.com/urwahkhalid"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a></a>&nbsp; <a href="mailto:urwahkhalid00@gmail.com"> <img src="https://img.shields.io/badge/Email--D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+</a>&nbsp; <a href="mailto:urwahkhalid00@gmail.com"> <img src="https://img.shields.io/badge/Email--D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>&nbsp; <a href="https://twitter.com/urwahkhalid"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
  </p>
 
 
