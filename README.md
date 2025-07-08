@@ -7,9 +7,6 @@
  </p>
 
 
-
----
-
 - 🔭 Currently working on RESTful APIs with Django and Flask  
 - 🌱 Exploring advanced database design with PostgreSQL  
 - 👯 Open to collaborating on open-source and impactful projects
@@ -19,7 +16,6 @@
 
 ## 👨‍💻 Tech Stack
 
-<p><em>Languages, frameworks, and tools I use or am currently learning</em></p>
 
 ###  Languages
 
