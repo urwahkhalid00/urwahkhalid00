@@ -28,35 +28,35 @@
 
 ###  Frameworks & Libraries
 
-<p>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django" style="height: 28px;" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask" style="height: 28px;" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" style="height: 28px;" />
-</p>
+<div style="display: flex; gap: 8px; align-items: center;">
+  <img src="https://iconic-api.onrender.com/dark/django" alt="Django" title="Django" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/flask" alt="Flask" title="Flask" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/bootstrap" alt="Bootstrap" title="Bootstrap" width="50px" />
+</div>
 
 ###  Databases
 
-<p>
-  <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" style="height: 28px;" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" style="height: 28px;" />
-</p>
+<div style="display: flex; gap: 8px; align-items: center;">
+  <img src="https://iconic-api.onrender.com/dark/postgresql" alt="PostgreSQL" title="PostgreSQL" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/sqlite" alt="SQLite" title="SQLite" width="50px" />
+</div>
 
 ###  Tools & Platforms
 
-<p>
-  <img src="https://img.shields.io/badge/-Git-FF5733?style=flat&logo=git&logoColor=white" style="height: 28px;" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" style="height: 28px;" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" style="height: 28px;" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" style="height: 28px;" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" style="height: 28px;" />
-</p>
+<div style="display: flex; gap: 8px; align-items: center;">
+  <img src="https://iconic-api.onrender.com/dark/git" alt="Git" title="Git" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/github" alt="GitHub" title="GitHub" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/vscode" alt="VS Code" title="VS Code" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/vercel" alt="Vercel" title="Vercel" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/canva" alt="Canva" title="Canva" width="50px" />
+</div>
 
 ###  Core Concepts
 
-<p>
-  <img src="https://img.shields.io/badge/-Object_Oriented_Programming-007ACC?style=flat" style="height: 28px;" />
-  <img src="https://img.shields.io/badge/-RESTful_API-00BCD4?style=flat&logo=rest&logoColor=white" style="height: 28px;" />
-</p>
+<div style="display: flex; gap: 8px; align-items: center;">
+  <img src="https://iconic-api.onrender.com/dark/oop" alt="OOP" title="Object-Oriented Programming" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/api" alt="RESTful API" title="RESTful API" width="50px" />
+</div>
 
 ---
 
