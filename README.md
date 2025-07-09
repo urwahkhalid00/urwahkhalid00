@@ -23,6 +23,9 @@
 ---
 
 ## 🛠️ Tools & Technologies
+<p align="center" style="font-style: italic; font-size: 1.1em;">
+  These are the tools and technologies I’ve worked with and am actively learning to enhance my skills.
+</p>
 
 <table align= "center">
   <tr>
