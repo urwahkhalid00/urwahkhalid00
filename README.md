@@ -41,7 +41,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
+      <br>JavaScript
     </td>
     
   </tr>
@@ -52,7 +52,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
+      <br>GitHub
     </td>
      <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
@@ -70,7 +70,7 @@
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask "/>
-      <br>Flast
+      <br>Flask
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
@@ -78,7 +78,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS"/>
-      <br>Vs code
+      <br>VS Code
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite"/>
