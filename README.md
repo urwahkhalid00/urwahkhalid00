@@ -85,7 +85,7 @@
       <br>SQLite
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Canva_Icon_2021.svg" alt="Canva" width="48" height="48" />
+       <img src="https://static.cdnlogo.com/logos/c/41/canva.svg" alt="Canva" width="48" height="48" />
        <br>Canva
     </td>
 
