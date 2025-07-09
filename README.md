@@ -2,16 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+Developer;Driven+by+code%2C+fueled+by+curiosity!" alt="Typing SVG">
 </p>
-<h1 align="center">Hi there!👋</h1>
-
-<p align="center" style="font-size: 1.2em; max-width: 600px; margin: auto;">
-  I'm Urwah Khalid, a passionate Python developer focused on building scalable web applications and APIs.  
-  Constantly driven by curiosity and a love for problem-solving, I enjoy exploring new technologies and improving my craft every day.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+Developer;Driven+by+code%2C+fueled+by+curiosity!" alt="Typing SVG">
-</p>
 
 
 Currently working on RESTful APIs with Django and Flask. Exploring advanced database design with PostgreSQL. Open to collaborating on open-source and impactful projects. Fun fact: I enjoy tackling new challenges and continuously learning to grow as a developer!
@@ -23,9 +13,9 @@ Currently working on RESTful APIs with Django and Flask. Exploring advanced data
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp; <a href="https://twitter.com/urwahkhalid"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
  </p>
- <!-- <p align="right">
+ <p align="right">
   <img src="https://komarev.com/ghpvc/?username=urwahkhalid00&label=Profile%20views&color=0e75b6&style=flat" alt="urwahkhalid00" />
-</p> -->
+</p>
 
 ---
 
