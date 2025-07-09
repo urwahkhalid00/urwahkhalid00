@@ -4,7 +4,13 @@
 </p>
 
 
-Currently working on RESTful APIs with Django and Flask. Exploring advanced database design with PostgreSQL. Open to collaborating on open-source and impactful projects. Fun fact: I enjoy tackling new challenges and continuously learning to grow as a developer!
+<p align="center" style="font-size: 1.1em; max-width: 700px; margin: auto;">
+  I am currently focused on developing robust RESTful APIs using Django and Flask.  
+  I am also exploring advanced database design with PostgreSQL to build scalable and efficient applications.  
+  Passionate about open-source, I am eager to collaborate on impactful projects that make a difference.  
+  Fun fact: I thrive on tackling new challenges and continuously expanding my skills as a developer.
+</p>
+
 
 
 <p align="center"> <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/">
