@@ -1,16 +1,13 @@
 <h1 align="center">Hi there!👋</h1>
+
+<p align="center" style="font-size: 1.1em; max-width: 600px; margin: auto;">
+  I’m a Python developer specializing in RESTful APIs with Django and Flask, exploring advanced PostgreSQL database design, and eager to collaborate on open-source projects.  
+  I enjoy tackling new challenges and continuously learning to grow as a developer.
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+Developer;Driven+by+code%2C+fueled+by+curiosity!" alt="Typing SVG">
 </p>
-
-
-<p align="center" style="font-size: 1.1em; max-width: 700px; margin: auto;">
-  I am currently focused on developing robust RESTful APIs using Django and Flask.  
-  I am also exploring advanced database design with PostgreSQL to build scalable and efficient applications.  
-  Passionate about open-source, I am eager to collaborate on impactful projects that make a difference.  
-  Fun fact: I thrive on tackling new challenges and continuously expanding my skills as a developer.
-</p>
-
 
 
 <p align="center"> <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/">
@@ -19,9 +16,16 @@
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp; <a href="https://twitter.com/urwahkhalid"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
  </p>
- <p align="right">
+ <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=urwahkhalid00&label=Profile%20views&color=0e75b6&style=flat" alt="urwahkhalid00" />
-</p>
+</p> -->
+
+
+
+- 🔭 Currently working on RESTful APIs with Django and Flask  
+- 🌱 Exploring advanced database design with PostgreSQL  
+- 👯 Open to collaborating on open-source and impactful projects
+- ⚡ Fun fact: I enjoy tackling new challenges and continuously learning to grow as a developer!
 
 ---
 
