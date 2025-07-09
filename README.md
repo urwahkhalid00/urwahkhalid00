@@ -82,7 +82,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite"/>
-      <br>sqLite
+      <br>SQLite
     </td>
   </tr>
 </table>
