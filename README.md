@@ -126,7 +126,6 @@
 ---
 
 <p align="center">
-   I appreciate you visiting my profile!
-  <br> 
-  ✨Looking forward to connecting, collaborating, and creating together✨
+   ✨I appreciate you visiting my profile!
+  Looking forward to connecting, collaborating, and creating together✨
 </p>
