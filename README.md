@@ -3,22 +3,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+Developer;Driven+by+code%2C+fueled+by+curiosity!" alt="Typing SVG">
 </p>
 
+- 🔭 Currently working on RESTful APIs with Django and Flask  
+- 🌱 Exploring advanced database design with PostgreSQL  
+- 👯 Open to collaborating on open-source and impactful projects
+- ⚡ Fun fact: I enjoy tackling new challenges and continuously learning to grow as a developer!
+
+## Connect with me
+
 <p align="center"> <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/">
 <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;  <a href="mailto:urwahkhalid00@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp; <a href="https://twitter.com/urwahkhalid"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
  </p>
+
  <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=urwahkhalid00&label=Profile%20views&color=0e75b6&style=flat" alt="urwahkhalid00" />
 </p> -->
 
-
-
-- 🔭 Currently working on RESTful APIs with Django and Flask  
-- 🌱 Exploring advanced database design with PostgreSQL  
-- 👯 Open to collaborating on open-source and impactful projects
-- ⚡ Fun fact: I enjoy tackling new challenges and continuously learning to grow as a developer!
 
 ---
 
