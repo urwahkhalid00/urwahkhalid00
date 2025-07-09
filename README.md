@@ -84,11 +84,10 @@
         <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite"/>
       <br>SQLite
     </td>
-   <td align="center" width="96" style="background-color: white; border-radius: 8px;">
-  <img src="https://img.icons8.com/fluency/48/canva.png" alt="Canva" width="48" height="48" style="border-radius: 0;" />
-  <br>Canva
-</td>
-
+    <td align="center" width="96">
+       <img src="https://iconic-api.onrender.com/dark/canva" alt="Canva" width="48" height="48" />
+       <br>Canva
+    </td>
 
   </tr>
 </table>
