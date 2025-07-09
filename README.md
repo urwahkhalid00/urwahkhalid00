@@ -20,7 +20,7 @@
 
 ## 🛠️ Tools & Technologies
 
-<!-- <table>
+<table>
   <tr>
     <td align="center" width="96">
        <td align="center"  width="96">
@@ -44,10 +44,6 @@
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -59,7 +55,7 @@
       <br>Github
     </td>
   </tr>
-</table> -->
+</table>
 <!-- <table>
   <tr>
     <td align="center" width="96">
