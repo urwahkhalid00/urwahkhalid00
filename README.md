@@ -20,7 +20,7 @@
 
 ## 🛠️ Tools & Technologies
 
-<table>
+<!-- <table>
   <tr>
     <td align="center" width="96">
        <td align="center"  width="96">
@@ -59,7 +59,7 @@
       <br>Github
     </td>
   </tr>
-</table>
+</table> -->
 <!-- <table>
   <tr>
     <td align="center" width="96">
