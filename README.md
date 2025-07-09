@@ -1,14 +1,7 @@
 <h1 align="center">Hi there!👋</h1>
-
-<p align="center" style="font-size: 1.1em; max-width: 600px; margin: auto;">
-  I’m a Python developer specializing in RESTful APIs with Django and Flask, exploring advanced PostgreSQL database design, and eager to collaborate on open-source projects.  
-  I enjoy tackling new challenges and continuously learning to grow as a developer.
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+Developer;Driven+by+code%2C+fueled+by+curiosity!" alt="Typing SVG">
 </p>
-
 
 <p align="center"> <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/">
 <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
