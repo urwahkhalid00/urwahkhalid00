@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>&nbsp;  <a href="mailto:urwahkhalid00@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>&nbsp; <a href="https://twitter.com/urwahkhalid"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  </a>&nbsp; <a href="https://twitter.com/urwahkhalid"> <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  </p>
 
 
