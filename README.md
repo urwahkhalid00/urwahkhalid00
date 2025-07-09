@@ -20,7 +20,7 @@
 
 ## 🛠️ Tools & Technologies
 
-<table>
+<!-- <table>
   <tr>
     </td>
     <td align="center" width="96">
@@ -30,7 +30,7 @@
       <br>Python
     </td> 
   </tr>
-</table>
+</table> -->
 <!-- <table>
   <tr>
     <td align="center" width="96">
