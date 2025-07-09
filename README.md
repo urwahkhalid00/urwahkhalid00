@@ -72,6 +72,18 @@
         <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask "/>
       <br>Flast
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS"/>
+      <br>vs code
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite"/>
+      <br>sqLite
+    </td>
   </tr>
 </table>
 <!-- <table>
