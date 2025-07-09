@@ -126,7 +126,7 @@
 ---
 
 <p align="center">
-   Thank you for stopping by! 
+   I appreciate you visiting my profile!
   <br> 
   ✨Looking forward to connecting, collaborating, and creating together✨
 </p>
