@@ -31,7 +31,7 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
@@ -43,17 +43,17 @@
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
-    </td>
+    </td> -->
   </tr>
 </table>
 <!-- <table>
