@@ -17,9 +17,9 @@
   </a>&nbsp; <a href="https://twitter.com/urwahkhalid"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
  </p>
 
- <!-- <p align="center">
+ <p align="center">
   <img src="https://komarev.com/ghpvc/?username=urwahkhalid00&label=Profile%20views&color=0e75b6&style=flat" alt="urwahkhalid00" />
-</p> -->
+</p>
 
 
 ---
