@@ -131,7 +131,7 @@
 </p>
 
 <details> 
- <h2>🗺️ My Developer Journey</h2>
+  <summary><strong>🗺️ My Developer Journey</strong></summary>
   🏁 Started programming in 2024 with Python, laying the groundwork with strong fundamentals and problem-solving skills.  
  <br>
   🔍 Dived deep into Object-Oriented Programming (OOP) to write clean, modular, and reusable code.  
