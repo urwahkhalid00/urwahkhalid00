@@ -131,7 +131,7 @@
 </p>
 
 <details> 
-  <summary><strong>🗺️ My Developer Journey – click to expand</strong></summary>
+  <summary><strong>🗺️ My Developer Journey </strong></summary>
   <br>
   🏁 Started programming in 2024 with Python, laying the groundwork with strong fundamentals and problem-solving skills.  
   <br>  
