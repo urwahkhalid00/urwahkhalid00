@@ -131,17 +131,11 @@
 </p>
 
 <details> 
-  <summary><strong>🗺️ My Developer Journey – click to expand</strong></summary>
-  <br>
-
+  <summary><strong>🗺️ My Developer Journey</strong></summary>
   🏁 Started programming in 2024 with Python, laying the groundwork with strong fundamentals and problem-solving skills.  
-  <br>  
   🔍 Dived deep into Object-Oriented Programming (OOP) to write clean, modular, and reusable code.  
-  <br>  
   🚀 Built my first web application using Django, which introduced me to the world of full-stack development.  
-  <br>  
-  🧠 Currently focused on developing RESTful APIs and designing efficient relational databases using PostgreSQL and SQLite.  
-  <br>  
+  🧠 Currently focused on developing RESTful APIs and designing efficient relational databases using PostgreSQL and SQLite.   
   📚 Always learning and exploring best practices in backend development, aiming to build scalable and maintainable systems.
 
 </details>
