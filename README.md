@@ -1,6 +1,8 @@
 <h1 align="center">Hi there!👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+Developer;Driven+by+code%2C+fueled+by+curiosity!" alt="Typing SVG">
+<h2 align="center">🐍 Python & Dango Developer</h2>
+
+## About me
+<p>'m a Python developer currently diving deep into backend development with Django. I’m focused on learning how to build robust RESTful APIs and design efficient databases. I'm gaining hands-on experience with tools like SQLite and PostgreSQL while working on real-world projects. My goal is to write clean, scalable code and continuously grow by exploring new technologies and best practices.
 </p>
 
 - 🔭 Currently working on RESTful APIs with Django and Flask  
