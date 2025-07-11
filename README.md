@@ -5,10 +5,10 @@
 <p>'m a Python developer currently diving deep into backend development with Django. I’m focused on learning how to build robust RESTful APIs and design efficient databases. I'm gaining hands-on experience with tools like SQLite and PostgreSQL while working on real-world projects. My goal is to write clean, scalable code and continuously grow by exploring new technologies and best practices.
 </p>
 
-- 🔭 Currently working on RESTful APIs with Django and Flask  
+<!-- - 🔭 Currently working on RESTful APIs with Django and Flask  
 - 🌱 Exploring advanced database design with PostgreSQL  
 - 👯 Open to collaborating on open-source and impactful projects
-- ⚡ Fun fact: I enjoy tackling new challenges and continuously learning to grow as a developer!
+- ⚡ Fun fact: I enjoy tackling new challenges and continuously learning to grow as a developer! -->
 
 ## Connect with me
 
