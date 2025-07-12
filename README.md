@@ -7,12 +7,21 @@
 
 ## Connect with me
 
-<p> <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/">
-<img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;  <a href="mailto:urwahkhalid00@gmail.com">
+<p> 
+  <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/">
+    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>&nbsp;  
+  <a href="mailto:urwahkhalid00@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>&nbsp; <a href="https://twitter.com/urwahkhalid"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
- </p>
+  </a>&nbsp;  
+  <a href="https://twitter.com/urwahkhalid">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+  </a>&nbsp;
+  <a href="https://github.com/urwahkhalid00">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
 
  <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=urwahkhalid00&label=Profile%20views&color=0e75b6&style=flat" alt="urwahkhalid00" />
