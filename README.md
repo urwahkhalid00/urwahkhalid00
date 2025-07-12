@@ -100,7 +100,7 @@
 
 ---
 
-## 📈 Stats and Activity
+## 📊 Stats and Activity
 
 ### 💻 GitHub Stats
 
@@ -119,7 +119,7 @@
 
 ---
 
-## 📊  GitHub Contribution Graph
+## 📈  GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=github-light" alt="GitHub Contribution Graph" />
