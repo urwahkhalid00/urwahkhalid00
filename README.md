@@ -2,7 +2,7 @@
 <h2 align="center"> Python & Dango Developer</h2>
 
 ## About me
-<p>I'm a Python developer currently diving deep into backend development with Django. I’m focused on learning how to build robust RESTful APIs and design efficient databases. I'm gaining hands-on experience with tools like PostgreSQL while working on real-world projects. My goal is to write clean, scalable code and continuously grow by exploring new technologies and best practices.
+<p>I'm a Python developer currently diving deep into backend development with Django. I'm currently focused on building robust RESTful APIs and designing efficient relational databases. I’m gaining hands-on experience with PostgreSQL and applying my skills to real-world projects. My goal is to write clean, scalable code and continuously grow by exploring new technologies and best practices.
 </p>
 
 ## Connect with me
@@ -136,16 +136,11 @@
 
 <details> 
   <summary><strong>🗺️ My Developer Journey </strong></summary>
-  <br>
-  🏁 Started programming in 2024 with Python, laying the groundwork with strong fundamentals and problem-solving skills.  
-  <br>  
-  🔍 Dived deep into Object-Oriented Programming (OOP) to write clean, modular, and reusable code.  
-  <br>  
-  🚀 Built my first web application using Django, which introduced me to the world of full-stack development.  
-  <br>  
-  🧠 Currently focused on developing RESTful APIs and designing efficient relational databases using PostgreSQL and SQLite.  
-  <br>  
-  📚 Always learning and exploring best practices in backend development, aiming to build scalable and maintainable systems.
+  - 🏁 Started programming in 2024 with Python, focusing on core concepts and problem-solving.
+  - 🔍 Explored Object-Oriented Programming for modular, reusable code.
+  - 🚀 Built my first Django web application, diving into full-stack concepts.
+  - 🧠 Currently building RESTful APIs and working with PostgreSQL and SQLite.
+  - 📚 Passionate about continuous learning and backend best practices.
 
 </details>
 
