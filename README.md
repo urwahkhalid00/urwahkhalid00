@@ -23,11 +23,6 @@
 </p>
 
 
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=urwahkhalid00&label=Profile%20views&color=0e75b6&style=flat" alt="urwahkhalid00" />
-</p>
-
-
 ---
 
 ##  Tools & Technologies
@@ -148,6 +143,9 @@
 
 </details>
 
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=urwahkhalid00&label=Profile%20views&color=0e75b6&style=flat" alt="urwahkhalid00" />
+</p>
 ---
 
 <p align="center">
