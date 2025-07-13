@@ -5,6 +5,10 @@
 <p>I'm a Python developer currently diving deep into backend development with Django. I'm currently focused on building robust RESTful APIs and designing efficient relational databases. I’m gaining hands-on experience with PostgreSQL and applying my skills to real-world projects. My goal is to write clean, scalable code and continuously grow by exploring new technologies and best practices.
 </p>
 
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=urwahkhalid00&label=Profile%20views&color=0e75b6&style=flat" alt="urwahkhalid00" />
+</p>
+
 ## Connect with me
 
 <p> 
@@ -143,9 +147,6 @@
 
 </details>
 
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=urwahkhalid00&label=Profile%20views&color=0e75b6&style=flat" alt="urwahkhalid00" />
-</p>
 ---
 
 <p align="center">
