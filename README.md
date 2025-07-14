@@ -2,7 +2,7 @@
 <h2 align="center"> Python & Django Developer</h2>
 
 ## About me
-<p>I'm a Python developer currently diving deep into backend development with Django. I'm currently focused on building robust RESTful APIs and designing efficient relational databases. I’m gaining hands-on experience with PostgreSQL and applying my skills to real-world projects. My goal is to write clean, scalable code and continuously grow by exploring new technologies and best practices.
+<p>I'm a Python developer with a focus on backend development using Django. I’m passionate about building robust RESTful APIs and designing efficient relational databases using PostgreSQL and SQLite. My goal is to write clean, scalable code while continuously learning new technologies and backend best practices through real-world projects.
 </p>
 
  <p align="right">
