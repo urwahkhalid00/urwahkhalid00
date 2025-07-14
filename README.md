@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋</h1>
-<h2 align="center"> Python & Dango Developer</h2>
+<h2 align="center"> Python & Django Developer</h2>
 
 ## About me
 <p>I'm a Python developer currently diving deep into backend development with Django. I'm currently focused on building robust RESTful APIs and designing efficient relational databases. I’m gaining hands-on experience with PostgreSQL and applying my skills to real-world projects. My goal is to write clean, scalable code and continuously grow by exploring new technologies and best practices.
