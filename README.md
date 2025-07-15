@@ -135,7 +135,7 @@
 
 <details> 
   <summary><strong>🗺️ My Developer Journey </strong></summary>
-  - 🏁 Started programming in March 2024 with Python, focusing on core concepts and problem-solving.
+  - 🏁 Started programming in **March 2024** with Python, focusing on core concepts and problem-solving.
   <br>
   - 🔍 Explored Object-Oriented Programming for modular, reusable code.
   <br>
