@@ -135,13 +135,13 @@
 
 <details> 
   <summary><strong>🗺️ My Developer Journey </strong></summary>
-  - 🏁 Started programming in <strong>March 2024</strong> with Python, focusing on core concepts and problem-solving.
+  - 🏁 Started programming in <strong>March 2024</strong> with <strong>Python</strong>, focusing on core concepts and problem-solving.
   <br>
-  - 🔍 Explored Object-Oriented Programming for modular, reusable code.
+  - 🔍 Explored <strong>Object-Oriented Programming</strong> for modular, reusable code.
   <br>
-  - 🚀 Built my first Django web application, diving into full-stack concepts.
+  - 🚀 Built my first <strong>Django</strong> web application, diving into full-stack concepts.
   <br>
-  - 🧠 Currently building RESTful APIs and working with PostgreSQL and SQLite.
+  - 🧠 Currently building <strong>RESTful APIs</strong> and working with <strong>PostgreSQL and SQLite</strong>.
   <br>
   - 📚 Passionate about continuous learning and backend best practices.
 
