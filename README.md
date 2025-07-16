@@ -117,9 +117,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=urwahkhalid00&show_icons=true&theme=light" />
 </div>
 
-<p align="center">
- <img width="1000" src="./github-snake.svg" alt="snake"/>
-</p>
+
 
 
 ### 🔥 GitHub Streak
