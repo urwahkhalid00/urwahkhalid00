@@ -131,9 +131,8 @@
 ## 📈  GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=light" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=github-light" alt="GitHub Contribution Graph" />
 </p>
-
 
 <details> 
   <summary><strong>🗺️ My Developer Journey </strong></summary>
