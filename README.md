@@ -131,7 +131,7 @@
 ## 📈  GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=github-light" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=dark" alt="GitHub Contribution Graph" />
 </p>
 
 <details> 
@@ -154,3 +154,15 @@
    ✨ I appreciate you visiting my profile!
   Looking forward to connecting, collaborating, and creating together ✨
 </p>
+
+
+<!-- 
+ - 🏁 Started programming in <strong>March 2024</strong> with <strong>Python</strong>, focusing on core concepts and problem-solving.
+  <br>
+  - 🔍 Explored <strong>Object-Oriented Programming</strong> for modular, reusable code.
+  <br>
+  - 🚀 Built my first <strong>Django</strong> web application, diving into full-stack concepts.
+  <br>
+  - 🧠 Currently building <strong>RESTful APIs</strong> and working with <strong>PostgreSQL and SQLite</strong>.
+  <br>
+  - 📚 Passionate about continuous learning and backend best practices. -->
