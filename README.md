@@ -133,9 +133,21 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=github-dark-dimmed" alt="GitHub Contribution Graph" />
 </p>
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=high-contrast" alt="GitHub Contribution Graph" />
-</p> -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=catppuccin_mocha" alt="GitHub Contribution Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=rose_pine" alt="GitHub Contribution Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=discord_old_blurple" alt="GitHub Contribution Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=panda" alt="GitHub Contribution Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=cobalt2" alt="GitHub Contribution Graph" />
+</p>
 
 
 
