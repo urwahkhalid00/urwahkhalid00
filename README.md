@@ -133,6 +133,19 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=github-dark" alt="GitHub Contribution Graph" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=high-contrast" alt="GitHub Contribution Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=tokyo-night" alt="GitHub Contribution Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=tokyo-night-dark" alt="GitHub Contribution Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=dracula" alt="GitHub Contribution Graph" />
+</p>
+
 
 <details> 
   <summary><strong>🗺️ My Developer Journey </strong></summary>
