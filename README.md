@@ -139,9 +139,9 @@
 
 - 🏁 **March 2024**: Started programming with Python, focusing on core concepts and problem-solving.  
 - 🔍 Learned **Object-Oriented Programming** for modular, reusable code.  
-- 🚀 Built my first **Django web app**, exploring full-stack concepts.  
-- 🧱 Currently developing RESTful APIs using Django REST Framework.  
-- 🗄️ Working with relational databases (PostgreSQL, SQLite).  
+- 🚀 Built my first **Django** web app, exploring full-stack concepts.  
+- 🧱 Currently developing RESTful APIs using **Django REST Framework**.  
+- 🗄️ Working with relational databases (**PostgreSQL, SQLite**).  
 - 📈 Continuously improving backend skills and best practices through hands-on projects.
 </details>
 
