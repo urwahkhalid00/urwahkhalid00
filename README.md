@@ -134,17 +134,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=github-light" alt="GitHub Contribution Graph" />
 </p>
 
-<details>
-  <summary><strong>🗺️ My Developer Journey</strong></summary>
+<details> 
+  <summary><strong>🗺️ My Developer Journey </strong></summary>
+  - 🏁 Started programming in <strong>March 2024</strong> with <strong>Python</strong>, focusing on core concepts and problem-solving.
+  <br>
+  - 🔍 Explored <strong>Object-Oriented Programming</strong> for modular, reusable code.
+  <br>
+  - 🚀 Built my first <strong>Django</strong> web application, diving into full-stack concepts.
+  <br>
+  - 🗄️ Currently building <strong>RESTful APIs</strong> and working with <strong>PostgreSQL and SQLite</strong>.
+  <br>
+  - 📚 Passionate about continuous learning and backend best practices.
 
-- 🏁 **March 2024**: Started programming with Python, focusing on core concepts and problem-solving.  
-- 🔍 Learned **Object-Oriented Programming** for modular, reusable code.  
-- 🚀 Built my first **Django** web app, exploring full-stack concepts.  
-- 🧱 Currently developing RESTful APIs using **Django REST Framework**.  
-- 🗄️ Working with relational databases (**PostgreSQL, SQLite**).  
-- 📈 Continuously improving backend skills and best practices through hands-on projects.
 </details>
-
 
 ---
 
