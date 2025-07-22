@@ -2,7 +2,12 @@
 <h2 align="center"> Python & Django Developer</h2>
 
 ## About me
-<p>Hi there, This is Urwah Khalid.I'm a Python developer with a focus on backend development using Django. I’m passionate about building robust RESTful APIs and designing efficient relational databases with PostgreSQL and SQLite. My goal is to write clean, scalable code while continuously learning new technologies and backend best practices through real-world projects.
+<p>
+
+Hi! I'm **Urwah Khalid**, a Python developer passionate about backend development using Django. I'm currently diving into the world of **relational databases** with **PostgreSQL** and exploring how to build scalable **RESTful APIs** using **Django REST Framework**.
+
+I'm focused on writing clean, efficient code and eager to apply what I learn through real-world projects. Every day is a step forward in mastering backend development and becoming a better problem-solver.
+
 </p>
 
  <p align="right">
