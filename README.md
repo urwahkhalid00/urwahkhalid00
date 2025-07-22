@@ -31,7 +31,7 @@
 
 ##  Tools & Technologies
 <p align="center" style="font-style: italic; font-size: 1.1em;">
-  Tools and technologies I’ve worked with and continue to explore to strengthen my backend development skills.
+  Technologies I use regularly and continue exploring to grow as a backend developer.
 </p>
 
 <table align= "center">
