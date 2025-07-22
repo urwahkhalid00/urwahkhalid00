@@ -155,3 +155,11 @@
   Looking forward to connecting, collaborating, and creating together ✨
 </p>
 
+## 📚 Currently Learning
+
+I'm actively expanding my backend development skills with a focus on:
+
+- 🗄️ **PostgreSQL** – Learning advanced database design, query optimization, and relational data modeling.
+- 🌐 **RESTful APIs** – Deepening my understanding of API architecture, authentication (JWT), and integration best practices using Django REST Framework.
+
+> 🚀 I'm committed to writing efficient, secure, and scalable backend code while continuously building real-world projects to reinforce what I learn.
