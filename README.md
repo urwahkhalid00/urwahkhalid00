@@ -134,7 +134,7 @@ Hi! I'm **Urwah Khalid**, a Python developer passionate about backend developmen
 ## 📈  GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=merko" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=nord" alt="GitHub Contribution Graph" />
 </p>
 
 <details> 
