@@ -137,10 +137,6 @@ Hi! I'm **Urwah Khalid**, a Python developer passionate about backend developmen
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=vue&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwahkhalid00&theme=nord&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
 <details> 
   <summary><strong>🗺️ My Developer Journey </strong></summary>
   - 🏁 Started programming in <strong>March 2024</strong> with <strong>Python</strong>, focusing on core concepts and problem-solving.
