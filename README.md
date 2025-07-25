@@ -105,6 +105,10 @@ Hi! I'm **Urwah Khalid**, a Python developer passionate about backend developmen
        <img src="https://iconic-api.onrender.com/dark/canva" alt="Canva" width="48" height="48" />
        <br>Canva
     </td>
+    <td align="center" width="96">
+      <img src="https://icon.icepanel.io/Technology/svg/DjangoRestFramework.svg" width="48" height="48" alt="DRF"/>
+       <br>Django REST
+   </td>
 
   </tr>
 </table>
