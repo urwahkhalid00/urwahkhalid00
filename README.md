@@ -123,7 +123,7 @@ Hi! I'm **Urwah Khalid**, a Python developer passionate about backend developmen
 ### 🔥 GitHub Streak
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=urwahkhalid00&theme=light" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=urwahkhalid00&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
