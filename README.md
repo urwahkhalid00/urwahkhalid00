@@ -2,11 +2,8 @@
 <h2 align="center"> Python & Django Developer</h2>
 
 ## About me
-<p>
 
 Hi! I'm **Urwah Khalid**, a Python developer passionate about backend development using Django. I'm currently exploring **relational databases** with **PostgreSQL** and exploring how to build scalable **RESTful APIs** using **Django REST Framework**. I'm focused on writing clean, efficient code and eager to apply what I learn through real-world projects. Every day is a step forward in mastering backend development and becoming a better problem-solver.
-
-</p>
 
  <p align="right">
   <img src="https://komarev.com/ghpvc/?username=urwahkhalid00&label=Profile%20views&color=0e75b6&style=flat" alt="urwahkhalid00" />
