@@ -11,7 +11,8 @@ Hi! I'm **Urwah Khalid**, a Python developer passionate about backend developmen
 
 ## Connect with me
 
-<p> 
+<div align="center">
+
   <a href="https://www.linkedin.com/in/urwah-khalid-988b7b268/">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp;  
@@ -24,8 +25,7 @@ Hi! I'm **Urwah Khalid**, a Python developer passionate about backend developmen
   <a href="https://github.com/urwahkhalid00">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   </a>
-</p>
-
+</div>
 
 ---
 
