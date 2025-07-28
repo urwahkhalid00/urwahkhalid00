@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/urwahkhalid00/your-repo/main/avatar.png" />
+
 <h1 align="center">Hi there!👋</h1>
 <h2 align="center"> Python & Django Developer</h2>
 
