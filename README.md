@@ -32,7 +32,7 @@ Hi! I'm **Urwah Khalid**, a Python developer passionate about backend developmen
 
 ##  Tools & Technologies
 <p align="center" style="font-style: italic; font-size: 1.1em;">
-  Technologies I use regularly and continue exploring to grow as a backend developer.
+  Technologies I use regularly and continue exploring to grow as a backend developer
 </p>
 
 <table align= "center">
