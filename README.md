@@ -151,9 +151,9 @@ Hi! I'm **Urwah Khalid**, a Python developer passionate about backend developmen
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=urwahkhalid00&theme=gruvbox&margin-w=15&no-frame=true" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=urwahkhalid00&theme=gruvbox&margin-w=15&no-frame=true" />
 
----
+--- -->
 <p align="center">
    ✨ I appreciate you visiting my profile!
   Looking forward to connecting, collaborating, and creating together ✨
