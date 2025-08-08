@@ -4,7 +4,8 @@
 
 ## About me
 
-Hi! I'm **Urwah Khalid**, a Python developer passionate about backend development using Django. I'm currently exploring **relational databases** with **PostgreSQL** and exploring how to build scalable **RESTful APIs** using **Django REST Framework**. I'm focused on writing clean, efficient code and eager to apply what I learn through real-world projects. Every day is a step forward in mastering backend development and becoming a better problem-solver.
+Hi! I'm **Urwah Khalid**, a passionate backend developer specializing in **Python** and **Django**. I'm currently diving deeper into **relational databases** like **PostgreSQL** and building scalable **RESTful APIs** using the **Django REST Framework**. I strive to write clean, efficient code and enjoy turning concepts into real-world applications. Every day is a step forward in mastering backend development and becoming a better problem solver.
+
 
  <p align="right">
   <img src="https://komarev.com/ghpvc/?username=urwahkhalid00&label=Profile%20views&color=0e75b6&style=flat" alt="urwahkhalid00" />
