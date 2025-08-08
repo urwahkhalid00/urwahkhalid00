@@ -155,8 +155,9 @@ Hi! I'm **Urwah Khalid**, a Python developer passionate about backend developmen
 
 --- -->
 <p align="center">
-   ✨ I appreciate you visiting my profile!
-  Looking forward to connecting, collaborating, and creating together ✨
+   ✨ Thanks for visiting my profile!  
+Let's connect, collaborate, and build something awesome together. ✨
+
 </p>
 
 
