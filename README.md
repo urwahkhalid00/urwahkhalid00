@@ -8,7 +8,7 @@
 
 Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **Python** and **Django**.
 
---> Currently exploring:
+**-->** Currently exploring:
 - **Relational Databases** like **PostgreSQL** and **SQLite**
 - Building scalable **RESTful APIs** with **Django REST Framework**
 
