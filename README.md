@@ -12,7 +12,7 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
 - **Relational Databases** like **PostgreSQL** and **SQLite**
 - Building scalable **RESTful APIs** with **Django REST Framework**
 
-💡 I enjoy solving real-world problems, writing clean and efficient code, and continuously learning to level up my backend development skills.
+ I enjoy solving real-world problems, writing clean and efficient code, and continuously learning to level up my backend development skills.
 
  <p align="right">
   <img src="https://komarev.com/ghpvc/?username=urwahkhalid00&label=Profile%20views&color=0e75b6&style=flat" alt="urwahkhalid00" />
