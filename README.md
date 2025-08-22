@@ -158,7 +158,9 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
 </details>
 
 ---
+📌 Goal: Build 2+ real-world backend projects using PostgreSQL and DRF by mid-2025.
 
+---
 
 <p align="center">
    ✨ Thanks for visiting my profile!  
