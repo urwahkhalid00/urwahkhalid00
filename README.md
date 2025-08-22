@@ -40,7 +40,7 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
 
 ##  Tools & Technologies
 <p align="center" style="font-style: italic; font-size: 1.1em;">
-  Technologies I use regularly and continue exploring to grow as a backend developer
+  Technologies I regularly use and explore to grow as a backend developer
 </p>
 
 <table align= "center">
