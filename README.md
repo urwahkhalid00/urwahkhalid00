@@ -164,7 +164,7 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
 
 <p align="center">
    ✨ Thanks for visiting my profile!  
-Let's connect, collaborate, and build something awesome together ✨
+Let's connect, collaborate, and build something awesome together. ✨
 
 </p>
 
