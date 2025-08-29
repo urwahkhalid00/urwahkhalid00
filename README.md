@@ -31,9 +31,9 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
   <a href="https://twitter.com/urwahkhalid">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>&nbsp;
-  <!-- <a href="https://github.com/urwahkhalid00">
+  <a href="https://github.com/urwahkhalid00">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  </a> -->
+  </a>
 </div>
 
 ---
