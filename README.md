@@ -117,7 +117,7 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
 ### 💻 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urwahkhalid00&layout=compact&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api?username=urwahkhalid00&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=light" />
   <img src="https://github-readme-stats.vercel.app/api?username=urwahkhalid00&show_icons=true&theme=light" />
 </div>
 
