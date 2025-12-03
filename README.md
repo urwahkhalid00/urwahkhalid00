@@ -127,7 +127,8 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
 ### 🔥 GitHub Streak
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=urwahkhalid00&theme=light" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=urwahkhalid00&theme=light&date_format=j%20M%5B%20Y%5D&fire=FF0000&ring=F9D71C&currStreakLabel=F9D71C&cache_seconds=1" />
+
 </p>
 
 ---
