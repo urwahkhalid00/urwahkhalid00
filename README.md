@@ -113,17 +113,18 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
 ---
 
 ## 📊 Stats and Activity
+
 ### 💻 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urwahkhalid00&layout=compact&theme=light&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api?username=urwahkhalid00&show_icons=true&theme=light&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urwahkhalid00&layout=compact&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api?username=urwahkhalid00&show_icons=true&theme=light" />
 </div>
 
 ### 🔥 GitHub Streak
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=urwahkhalid00&theme=light&cache_seconds=1800" />
+ <img src="https://streak-stats.demolab.com?user=urwahkhalid00&theme=light" alt="GitHub Streak" />
 </p>
 
 ---
