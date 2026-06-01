@@ -49,6 +49,10 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask "/>
+      <br>Flask
+    </td>
        <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -57,13 +61,14 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
+
+    
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
-    
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -80,15 +85,12 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>REST API
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
+
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask "/>
-      <br>Flask
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
