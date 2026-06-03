@@ -4,11 +4,12 @@
 
 ## About me
 
-Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **Python** and **Django**.
+Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **Python** and **Django / Flask**.
 
 **-->** Currently exploring:
-- **Relational Databases** like **PostgreSQL** and **SQLite**
-- Building scalable **RESTful APIs** with **Django REST Framework**
+- Development of RESTful APIs using Flask
+- Web scraping and data extraction APIs for automation tasks
+
 
  I enjoy solving real-world problems, writing clean and efficient code, and continuously learning to level up my backend development skills.
 
