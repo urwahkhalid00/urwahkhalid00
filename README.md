@@ -8,7 +8,7 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
 
 **-->** Currently exploring:
 - Development of **RESTful APIs** using **Flask**
-- *Web scraping* and *data extraction* APIs for automation tasks
+- **Web scraping** and *data extraction* APIs for automation tasks
 
 
  I enjoy solving real-world problems, writing clean and efficient code, and continuously learning to level up my backend development skills.
