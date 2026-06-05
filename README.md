@@ -115,7 +115,7 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
 
 ---
 
-## 📊 Stats and Activity
+<!-- ## 📊 Stats and Activity
 
 ### 💻 GitHub Stats
 
@@ -131,7 +131,7 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
  <img src="https://streak-stats.demolab.com?user=urwahkhalid00&theme=light" alt="GitHub Streak" />
 </p>
 
----
+--- -->
 
 ## 📈  GitHub Contribution Graph
 
