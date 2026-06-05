@@ -133,7 +133,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=urwahkhalid0
 ### 🔥 GitHub Streak
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=urwahkhalid00" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=urwahkhalid00&theme=dark" />
 
 </p>
 
