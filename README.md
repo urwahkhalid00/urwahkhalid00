@@ -122,10 +122,10 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
 <div align="center">
 
 <img height="160"
-src="https://github-readme-stats.vercel.app/api?username=urwahkhalid00&show_icons=true" />
+src="https://github-readme-stats.vercel.app/api?username=urwahkhalid00&show_icons=true&theme=dark&hide_border=true" />
 
 <img height="160"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=urwahkhalid00&layout=compact" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=urwahkhalid00&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
