@@ -166,6 +166,3 @@ and see april 2026 i got a job in software house as a python developer and here 
 Let's connect, collaborate, and build something awesome together. ✨
 
 </p>
-
-
-<!-- hegdhghgdfhdh -->
