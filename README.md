@@ -157,7 +157,9 @@ Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **P
 ---
 
 <!-- 📌 Goal: Build 2+ real-world backend projects using PostgreSQL and DRF by mid-2025. But we never know in future what we are doing
-and see april 2026 i got a job in software house as a python developer and here not django but i worked in fask and API's and the fun part is that i also work on AI models heheh -->
+and see april 2026 i got a job in software house as a python developer and here not django but i worked in fask and API's and the fun part is that i also work on AI models heheh
+And the fun part is that for github commits i always uncoment this and again comented so in github commits increases 
+ -->
 
 ---
 
