@@ -160,8 +160,8 @@ and see april 2026 i got a job in software house as a python developer and here 
 
 ---
 
-<!-- <p align="center">
+<p align="center">
    ✨ Thanks for visiting my profile!  
 Let's connect, collaborate, and build something awesome together. ✨
 
-</p> -->
+</p>
