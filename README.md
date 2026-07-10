@@ -4,7 +4,7 @@
 
 ## About me
 
-Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **Python** and **Django / Flask**.
+Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **Python** and **Flask**.
 
 **-->** Currently exploring:
 
