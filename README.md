@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there!👋</h1>
-<h2 align="center"> Python & Django/Flask Developer</h2>
+<h2 align="center"> Python & Flask/Django Developer</h2>
 
 ## About me
 
