@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi there!👋</h1>
-<h2 align="center"> Python & Flask/Django Developer</h2>
+<h2 align="center"> Python & Flask / Django Developer</h2>
 
 ## About me
 
-Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **Python** and **Django / Flask**.
+Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **Python** and **Flask / Django**.
 
 **-->** Currently exploring:
 
