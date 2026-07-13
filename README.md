@@ -6,7 +6,7 @@
 
 Hi! I'm **Urwah Khalid**, a passionate **Backend Developer** specializing in **Python** and **Flask / Django**.
 
-**-->** Currently exploring:
+**-->** **Currently exploring:**
 
 - **Prompts** and **AI Humenizer**
 - **Web scraping** and *data extraction* APIs for automation tasks
